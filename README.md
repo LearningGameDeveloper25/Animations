@@ -45,3 +45,14 @@
 > ##### HeadAnimator &rarr; Blink: Blending Additive & Weights = 1.
 ### Add animation by unity
 > ##### ![alt text](image-11.png)
+## Trigger
+#### B1: Create Empty State.
+> #### ![alt text](image-12.png)
+#### B2: Create Make Transition and Connect to State Animation.
+> #### ![alt text](image-13.png)
+#### B3: Create Trigger - Click: Parameters &rarr; Click: <+>.
+> #### ![alt text](image-14.png)
+#### B4: Add Anim for edgeState.
+> #### ![alt text](image-15.png)
+#### B5: Script.
+> #### ![alt text](image-16.png)
